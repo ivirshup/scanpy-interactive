@@ -1,0 +1,6 @@
+scanpy
+matplotlib
+ipywidgets
+ipython
+seaborn
+louvain
