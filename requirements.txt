@@ -4,3 +4,9 @@ ipywidgets>=7.4.1
 ipython
 seaborn
 louvain
+leidenalg
+xarray
+notebook
+altair
+vega==2.4.0
+hvplot
