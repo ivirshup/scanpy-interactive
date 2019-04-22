@@ -8,5 +8,5 @@ leidenalg
 xarray
 notebook
 altair
-vega==2.4.0
+vega==1.4.0
 hvplot
